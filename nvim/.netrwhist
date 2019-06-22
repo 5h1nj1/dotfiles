@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/shinji/lecture_of_advanced_programming_cpp/myMaterials/slideFiles'
+let g:netrw_dirhist_2='/home/shinji/lecture_of_advanced_programming_cpp/myMaterials/slideFiles/12'
+let g:netrw_dirhist_3='/home/shinji/lecture_of_advanced_programming_cpp/myMaterials/slideFiles'
+let g:netrw_dirhist_4='/home/shinji/lecture_of_advanced_programming_cpp/myMaterials/slideFiles/13'

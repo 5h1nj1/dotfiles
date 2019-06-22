@@ -1,0 +1,8 @@
+qgis
+python-gdal
+python-jinja
+python-owslib
+python-psycopg2
+python-pygmets
+python-yaml
+shapelib
